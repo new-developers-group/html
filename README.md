@@ -44,4 +44,4 @@ Agradecemos a todos por se juntarem ao Grupo New Developer. Juntos, podemos alca
 
 Vamos começar essa jornada emocionante!
 
-[Conheça nosso fundador - Gilberto Santo](https://github.com/gilbertosanto)(https://www.linkedin.com/in/gilbertopsantosjr/)
+[Conheça nosso fundador - Gilberto Santo](https://www.linkedin.com/in/gilbertopsantosjr/)
