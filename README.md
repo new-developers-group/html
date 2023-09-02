@@ -1,6 +1,6 @@
 # Bem-vindo ao Grupo New Developers
 
-Olá, novos desenvolvedores! Sejam muito bem-vindos ao Grupo New Developer criado pelo Gilberto Santo. Este é um espaço onde estamos comprometidos com o crescimento mútuo e a geração de conhecimento na área de desenvolvimento de software.
+Olá, novos desenvolvedores! Sejam muito bem-vindos ao Grupo New Developer criado pelo Gilberto Santos. Este é um espaço onde estamos comprometidos com o crescimento mútuo e a geração de conhecimento na área de desenvolvimento de software.
 
 ## Sobre o Grupo
 
